@@ -1,12 +1,14 @@
 ### Summary
 
-Simple browser extension that checks the current URL, and displays a banner at the top of the page warning them of dubious content.
+Разширение за Гугъл Хром, което показва банер върху български сайтове, които произвеждат или възпроизвеждат фалшиви новини.
+
+Simple browser extension that checks the current URL, and displays a banner over the page warning of dubious content.
 Based on origan work of Brian Feldman: https://github.com/bfeldman/fake-site-alert
 
+### Some other stuff
 
-### some other stuff
-
-I am not a professional coder. If you are one, and have a better idea for implementation or added features, please feel free to contribute.
+I am not a professional coder.
+If you are one, and have a better idea for implementation or added features, please feel free to contribute.
 
 ### How to install in Google Chrome
 
