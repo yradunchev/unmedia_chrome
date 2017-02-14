@@ -1,7 +1,7 @@
-// alert.js
+﻿// alert.js
 
 var striped_lines_box = document.createElement('div');
-striped_lines_box.style.cssText = "background-image: url(https://i.imgur.com/m5Wjo7h.png); height: 100%;width: 100%;position: fixed; z-index: 99999; opacity: 0.7;";
+striped_lines_box.style.cssText = "background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAAAwElEQVRYhcXYwQ3AIAwDwNBVuv9IzNJ+kKoiWkhiG74EnfjZKfWy8DlL/O2xRa1XFE6qFvtxXo3AENUNo1QfDFQdMFZdheHqEsxQ5zBJncA89Q+mqp8wWx3DAnUAa9QelqkvWKk+sFhtsF41s4SZUFNwMiUG4Xw2jcCQROyGUTncBwPTvwPGdo5VGN50lmBGv5rDpFY3gXld8u+S2mA/79m9eTwiaOuDKc2OoB+UbSZes8p9yDMu3sKULWqDt2ycbuQWUBgMCXBoAAAAAElFTkSuQmCC); height: 100%;width: 100%;position: fixed; z-index: 99999; opacity: 0.7;";
 
 var inner_text = document.createElement('span');
 inner_text.textContent = "Този сайт разпространява подвеждаща или невярна информация!";
