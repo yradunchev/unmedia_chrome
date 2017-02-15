@@ -1,6 +1,7 @@
 ### Summary
 
 Разширение за Гугъл Хром, което показва банер върху български сайтове, които произвеждат или възпроизвеждат фалшиви новини.
+Списъкът на сайтовете е взет от https://github.com/yradunchev/unmedia
 
 Simple browser extension that checks the current URL, and displays a banner over the page warning of dubious content.
 Based on origan work of Brian Feldman: https://github.com/bfeldman/fake-site-alert
